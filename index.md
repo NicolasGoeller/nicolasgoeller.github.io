@@ -9,9 +9,10 @@ description: Economics PhD Student @ WU Vienna
 I am Nicolas, a second-year Economics PhD student at the Vienna University of Economics and Business (WU Vienna). I am interested in policy transmission dynamics that involve networks or micro-macro interactions. 
 
 # 📝 Research projects
-- Multivariate network spillovers of US monetary policy: Transmission with multiple networks, with Gabriel Konecny (Work in Progress)
-- Stock market spillovers of US monetary policy: Transmission with multiple Networks, with Gabriel Konecny (Work in Progress)
-- Supply chain rewiring after the shock: Firm adaption behavior with tariffs (Work in Progress)
+- Mapping the International Transmission of Macroeconomic Shocks: A GVAR Analysis with multiple networks, with Gabriel Konecny (Work in Progress)
+- Stock market spillovers of US monetary policy: Policy transmission in spatial autoregressive models with multiple networks, with Gabriel Konecny (Work in Progress)
+- Supply chain rewiring after the shock: Firm adaption behavior with tariffs (idea development)
+- Dynamic Network Structure of the European Money Market (idea development)
 
 # 👨‍🏫 Teaching
 
